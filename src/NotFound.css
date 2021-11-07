@@ -1,0 +1,10 @@
+.NotFound{
+    font-weight:normal;
+    font-size:3vh;
+    text-align:center;
+}
+
+.NotFound-Link{
+    text-decoration: none;
+    color:white;
+}

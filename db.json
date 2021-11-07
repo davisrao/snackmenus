@@ -1,0 +1,391 @@
+{
+  "drinks": [
+    {
+      "id": "martini",
+      "name": "Martini",
+      "description": "An ice-cold, refreshing classic.",
+      "recipe": "Mix 3 parts vodka & 1 part dry vermouth.",
+      "serve": "Serve very cold, straight up."
+    },
+    {
+      "id": "negroni",
+      "name": "Negroni",
+      "description": "A nice drink for a late night conversation.",
+      "recipe": "Mix equal parts of gin, Campari, and sweet vermouth.",
+      "serve": "Serve cold, either on the rocks or straight up."
+    },
+    {
+      "id": "gin-and-tonic",
+      "name": "Gin and Tonic",
+      "description": "Like regular tonic, but with gin.",
+      "recipe": "Mix 2 parts gin & 1 part tonic water.",
+      "serve": "Serve in a tall glass over ice, garnished with a lime wedge."
+    },
+    {
+      "id": "diet-coke",
+      "name": "Diet Coke",
+      "description": "Crisp!",
+      "recipe": "Open can.",
+      "serve": "Immediately."
+    },
+    {
+      "type": "drinks",
+      "name": "glass of water",
+      "description": "as good as it sounds",
+      "recipe": "ice,water",
+      "serve": "water in glass",
+      "id": "glass-of-water"
+    },
+    {
+      "type": "drinks",
+      "name": "glass of ice",
+      "description": "not really a drink, but wait a bit",
+      "recipe": "glass, ice",
+      "serve": "on the rocks",
+      "id": "glass-of-ice"
+    },
+    {
+      "type": "drinks",
+      "name": "a glass of coke",
+      "description": "coke in glass, full of america",
+      "recipe": "coke in glass",
+      "serve": "on the rocks",
+      "id": "a-glass-of-coke"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "pWNXgKc"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "KaSNhtr"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "q0VKCns"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "uHqhBkw"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "A_mWo1p"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "rflM5e_"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "8K61CIk"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "-kBzovs"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "O-SRYl3"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "aEaXjb-"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "gaFmPat"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "JHUJh6D"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "lKn8kk0"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "s5_diyA"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "nS99HLU"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "vFAGWOJ"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "HwSGI9F"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "tPRVSye"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "1X3s0BD"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "D9dQEhV"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "4Yk1cyA"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "XT3dLa2"
+    },
+    {
+      "type": "drinks",
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "ShhmmPq"
+    },
+    {
+      "type": "drinks",
+      "name": "my drank",
+      "description": "dranks",
+      "recipe": "a drank",
+      "serve": "my fav",
+      "id": "my-drank"
+    },
+    {
+      "type": "drinks",
+      "name": "Davis",
+      "description": "as good as it sounds",
+      "recipe": "123",
+      "serve": "123",
+      "id": "davis"
+    },
+    {
+      "type": "drinks",
+      "name": "1",
+      "description": "1",
+      "recipe": "1",
+      "serve": "1",
+      "id": "1"
+    },
+    {
+      "type": "drinks",
+      "name": "fd",
+      "description": "fd",
+      "recipe": "fd",
+      "serve": "fd",
+      "id": "fd"
+    },
+    {
+      "type": "drinks",
+      "name": "333",
+      "description": "333",
+      "recipe": "333",
+      "serve": "333",
+      "id": "333"
+    },
+    {
+      "type": "drinks",
+      "name": "the frink",
+      "description": "as good as it sounds",
+      "recipe": "444",
+      "serve": "444",
+      "id": "the-frink"
+    },
+    {
+      "type": "drinks",
+      "name": "4444",
+      "description": "44",
+      "recipe": "44",
+      "serve": "44",
+      "id": "4444"
+    },
+    {
+      "type": "drinks",
+      "name": "a new drunk",
+      "description": "this one is goooood",
+      "recipe": "goooood",
+      "serve": "yep",
+      "id": "a-new-drunk"
+    }
+  ],
+  "snacks": [
+    {
+      "id": "nachos",
+      "name": "Nachos",
+      "description": "An American classic!",
+      "recipe": "Cover expensive, organic tortilla chips with Cheez Whiz.",
+      "serve": "Serve in a hand-thrown ceramic bowl, garnished with canned black olives"
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "description": "Sure to impress your vegan friends!",
+      "recipe": "Purchase one container of hummus.",
+      "serve": "Place unceremoniously on the table, along with pita bread."
+    },
+    {
+      "id": "arugula-and-walnut-salad",
+      "name": "Arugula and Walnut Salad",
+      "description": "Tart and delicious.",
+      "recipe": "Mix arugula, toasted walnuts, and thinly-sliced Parmesan cheese. Dress with lemon and olive oil.",
+      "serve": "Place on tiny, precious little plates."
+    },
+    {
+      "id": "crackers",
+      "name": "crackers",
+      "description": "crackers",
+      "serve": "on a plate",
+      "recipe": "crackers from a box"
+    },
+    {
+      "priority": "drinks",
+      "name": "Fried Twinkies",
+      "description": "Decadent pastries flash fried filled with cream",
+      "recipe": "Unwrap",
+      "serve": "On a paper towel with a side of shame",
+      "type": "snacks",
+      "id": "fried-twinkies"
+    },
+    {
+      "type": "snacks",
+      "name": "1",
+      "description": "1",
+      "recipe": "1",
+      "serve": "1",
+      "id": "1"
+    },
+    {
+      "type": "snacks",
+      "name": "Davis",
+      "description": "as good as it sounds",
+      "recipe": "1",
+      "serve": "1",
+      "id": "davis"
+    },
+    {
+      "type": "snacks",
+      "name": "fd",
+      "description": "Decadent sdfspastries flash fried filled with cream",
+      "recipe": "fdf",
+      "serve": "dffdsf",
+      "id": "fd"
+    },
+    {
+      "type": "snacks",
+      "name": "123",
+      "description": "123",
+      "recipe": "123",
+      "serve": "123",
+      "id": "123"
+    },
+    {
+      "type": "snacks",
+      "name": "churro",
+      "description": "cinnamon",
+      "recipe": "uyum",
+      "serve": "yum",
+      "id": "churro"
+    },
+    {
+      "type": "snacks",
+      "name": "a new one",
+      "description": "a new one",
+      "recipe": "new new",
+      "serve": "nw",
+      "id": "a-new-one"
+    }
+  ]
+}
