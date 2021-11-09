@@ -20,7 +20,7 @@ import { Card, CardBody, CardTitle, CardText } from "reactstrap";
 function ItemDetails({ items, type }) {
   const { id } = useParams();
 
-  let item = items.find(item => item.id === id);
+  const item = items.find(item => item.id === id);
   if (!item) return <Redirect to={`/${type}`} />;
 
   return (

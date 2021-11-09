@@ -58,10 +58,10 @@ function App() {
    */
   async function updateData(type) {
     if (type === "drinks") {
-      let drinks = await SnackOrBoozeApi.getDrinks();
+      const drinks = await SnackOrBoozeApi.getDrinks();
       setDrinks(drinks);
     } else if (type === "snacks") {
-      let snacks = await SnackOrBoozeApi.getSnacks();
+      const snacks = await SnackOrBoozeApi.getSnacks();
       setSnacks(snacks);
     }
   }
