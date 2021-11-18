@@ -1,7 +1,7 @@
 import axios from "axios";
 import { getIdFromName } from "./utils";
 
-const BASE_API_URL = "http://localhost:5000";
+const BASE_API_URL = process.env.REACT_APP_BASE_URL || "http://localhost:5000";
 
 /*
 * API helper class for getting snack and drink data
